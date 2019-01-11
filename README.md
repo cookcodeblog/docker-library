@@ -1,3 +1,7 @@
+# DEPRECATED
+
+源仓库[mritd/docker-library] (https://github.com/mritd/docker-library)已经停止维护，开始采用新的同步工具自动完成构建，可移步 [mritd/gcr](https://github.com/mritd/gcr)
+
 # docker-library
 
 
